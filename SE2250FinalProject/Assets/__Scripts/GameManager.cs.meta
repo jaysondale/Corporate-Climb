@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 60d6adb93796c47afbc248af85b6f706
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - HansBrown: {fileID: 1507892004249500, guid: 3fb37128611bd40a29de739b567ceabc,
+      type: 3}
+  - HansBlack: {fileID: 1507892004249500, guid: 14d8d7eec83194da9a838ee29d16038f,
+      type: 3}
+  - HansBlue: {fileID: 1507892004249500, guid: 8200aaa1b5bcd492e8330aa8f91ff02f, type: 3}
+  - HansTeal: {fileID: 1507892004249500, guid: 29c5674b243d44abb85f6e4dc3e22445, type: 3}
+  - HansRed: {fileID: 1507892004249500, guid: 6e9140475790a4958b92ace347ff8440, type: 3}
+  - KiraEthnic: {fileID: 1165999807398598, guid: 6e509452584a149e7a467b281d4a6ee5,
+      type: 3}
+  - KiraRed: {fileID: 1165999807398598, guid: bc1670149f75e41e487028e725ce2e90, type: 3}
+  - KiraBlack: {fileID: 1165999807398598, guid: 6a17b3091e67940d7b8ccb737b5cbab2,
+      type: 3}
+  - KiraYellow: {fileID: 1165999807398598, guid: 08eca4dbb1392402d9176b29116cf322,
+      type: 3}
+  - KiraWhite: {fileID: 1165999807398598, guid: 1eb7595d4e7584416bb97246d4a4933f,
+      type: 3}
+  executionOrder: -50
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
